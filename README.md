@@ -20,6 +20,6 @@ I build admin panels, dashboards, and business applications with **Laravel** and
 ## 📫 Reach Me
 
 - Email: dpal1487@gmail.com
-- LinkedIn: [_add your LinkedIn URL_](https://www.linkedin.com/in/dileep-kumar-pal-35a820169/)
+- LinkedIn: https://www.linkedin.com/in/dileep-kumar-pal-35a820169/
 
 ![Dileep's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpal1487&show_icons=true&theme=default)
