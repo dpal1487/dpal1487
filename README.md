@@ -52,6 +52,21 @@ Laravel PHP WebSockets
 </tr>
 </table>
 
+📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dpal1487&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dileep's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpal1487&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=dpal1487&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+💡 "Quick & self-learner — always shipping, always learning."
+
+Open to interesting projects and opportunities — let's talk! 📬
+
+</div>
+
 ## 📫 Reach Me
 
 - Email: dpal1487@gmail.com
