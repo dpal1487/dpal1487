@@ -22,4 +22,3 @@ I build admin panels, dashboards, and business applications with **Laravel** and
 - Email: dpal1487@gmail.com
 - LinkedIn: [dileep-kumar-pal](https://www.linkedin.com/in/dileep-kumar-pal-35a820169/)
 
-![Dileep's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpal1487&show_icons=true&theme=default)
