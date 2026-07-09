@@ -82,22 +82,6 @@ Real-time chat application built with Laravel.
 </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Followers](https://img.shields.io/github/followers/dpal1487?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/dpal1487?tab=followers)
-[![Stars](https://img.shields.io/github/stars/dpal1487?style=for-the-badge&logo=github&color=yellow)](https://github.com/dpal1487?tab=repositories)
-[![Top Repo Stars](https://img.shields.io/github/stars/dpal1487/laravelvuedashboard?style=for-the-badge&logo=laravel&label=laravelvuedashboard&color=FF2D20)](https://github.com/dpal1487/laravelvuedashboard)
-
-<img src="https://ghchart.rshah.org/409ba5/dpal1487" alt="Contribution graph" width="90%" />
-
-</div>
-
----
-
 <div align="center">
 
 💡 *"Quick & self-learner — always shipping, always learning."*
