@@ -117,7 +117,7 @@ Building India's leading payment platform handling:
 
 ### UI/UX & Admin Templates
 - **Metronic 8** — Professional, modern admin dashboards
-  - React, Vue, Angular support
+  - React, Vue, Boostrap
   - Pre-built components & layouts
   - Responsive & mobile-friendly
   - Dark mode support
@@ -175,18 +175,7 @@ DMT, AEPS, Bill Payments | 50k+ daily transactions | 99.9% uptime
 - ✅ Dark mode enabled dashboards
 - ✅ Real-time charts & graphs
 - ✅ Professional payment system UIs
-
-**Metronic 8 Features Used:**
-- Pre-built components (cards, tables, modals)
-- Responsive grid system
-- Admin sidebar & header layouts
-- Chart.js integration
-- Form components & validation
-- Authentication screens
-- Dark mode toggle
-- Mobile optimization
-- Performance optimized
-
+- 
 ---
 
 ## 🤝 Let's Connect
