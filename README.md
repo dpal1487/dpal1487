@@ -1,6 +1,6 @@
 # Hi, I'm Dileep Kumar 👋
 
-Full Stack Web Developer at **Vayam Technologies Ltd.** · Delhi, India
+Full Stack Web Developer at **Vayam Technologies Ltd.**  Delhi, India
 
 I build admin panels, dashboards, and business applications with **Laravel** and modern JavaScript frontends.
 
