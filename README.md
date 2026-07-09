@@ -85,8 +85,9 @@ Real-time chat application built with Laravel.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dpal1487&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpal1487&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+[![Followers](https://img.shields.io/github/followers/dpal1487?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/dpal1487?tab=followers)
+[![Stars](https://img.shields.io/github/stars/dpal1487?style=for-the-badge&logo=github&color=yellow)](https://github.com/dpal1487?tab=repositories)
+[![Top Repo Stars](https://img.shields.io/github/stars/dpal1487/laravelvuedashboard?style=for-the-badge&logo=laravel&label=laravelvuedashboard&color=FF2D20)](https://github.com/dpal1487/laravelvuedashboard)
 
 <img src="https://ghchart.rshah.org/409ba5/dpal1487" alt="Contribution graph" width="90%" />
 
